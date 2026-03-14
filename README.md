@@ -1,4 +1,4 @@
-## Hi there, This is Ifti 🐢
+## Hi there, This is Ifti 👋
 
 <!--
 **IFTI612/IFTI612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
